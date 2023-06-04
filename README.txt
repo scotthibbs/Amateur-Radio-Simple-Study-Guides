@@ -1,10 +1,12 @@
+(last edited 04Jun2023 -KD4SIR)
+
 CQ CQ CQ
 
 WHY: 
 
 I was shocked when I found out that the no nonsense stuff were no longer free when I had been recommending them for years. Even used them for my own upgrades from Tech Plus (Thank you). I like and admire that the technician guide is still free though. I can't fault anyone trying to make an honest dollar, and I hope he makes a lot of money. 
 
-However, charging for editing a public domain document that took me only a couple hours to erase wrong answers from was easy and doesn't infringe. Elmering isn't for profit, so I took on the task of elmering my fellow hams in this endeavor and created these "simple study" question pools. These will forever be free just as the question pools are. 
+However, charging for editing a public domain document that took me only a couple hours to erase wrong answers from was easy and doesn't infringe. Elmering isn't for profit, so I took on the task of elmering my fellow hams in this endeavor and created these "simple study" question pools. These will forever be free just as the question pools are. Thanks to HamExam.org. Great resource! 
 
 HOW THIS WORKS:
 
@@ -19,7 +21,7 @@ DIRECTIONS OR RULES:
 
 * Print these questions. 
 * Read, AT LEAST, one page every day. I recommend reading them in bed until they put you to sleep. This rule stays in effect until the test is passed.
-* After reading three or more times, try on line practice tests until passing with ease.
+* After reading three or more times, try on line practice tests at HamExam.org until passing with ease.
 * Schedule your test. 
 * Pass the test
 
